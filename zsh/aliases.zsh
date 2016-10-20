@@ -2,5 +2,5 @@
 alias ll="ls -lh --color"
 
 # Misc
-alias mine="sudo chown nicolas.nicolas -R"
+alias mine="sudo chown jeremy.jeremy -R"
 alias serve="python -m SimpleHTTPServer"

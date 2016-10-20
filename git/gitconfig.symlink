@@ -1,8 +1,8 @@
 [core]
     editor  = vim
 [user]
-    name    = Nicolas Carlier
-    email   = n.carlier@nunux.org
+    name    = Jérémy Moulins
+    email   = jeremy.moulins@gmail.com
 [color]
     diff    = auto
     status  = auto
